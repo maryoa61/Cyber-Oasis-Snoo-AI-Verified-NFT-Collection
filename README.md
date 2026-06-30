@@ -24,3 +24,6 @@ This collection consists of 10 unique digital assets, each with its own JSON met
 
 ## License
 This project is open-source and intended for educational purposes within the GenLayer developer community.
+## Collection Metadata
+You can access the full collection of metadata files directly on IPFS here:
+[**View All Cyber Oasis Snoo NFTs**](https://sapphire-faithful-ocelot-590.mypinata.cloud/ipfs/bafybeid6mf65n6p6iw4gxxzokpaox7bja4pi7rxfic5jpjtk6vtzem2ewq/)

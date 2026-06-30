@@ -27,4 +27,4 @@ This project is open-source and intended for educational purposes within the Gen
 ## Collection Metadata
 ## Collection Metadata
 You can explore the full collection of 10 NFTs here:
-[**View All Cyber Oasis Snoo NFTs**](https://sapphire-faithful-ocelot-590.mypinata.cloud/ipfs/bafybeid6mf65n6p6iw4gxxzokpaox7bja4pi7rxfic5jpjtk6vtzem2ewq/)
+[**View All Cyber Oasis Snoo NFTs** https://sapphire-faithful-ocelot-590.mypinata.cloud/ipfs/bafybeicrshivspzbgmppjcrkjnwtyryonz3dhrv5m7aetgdd555yk6movi/
